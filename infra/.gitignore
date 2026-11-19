@@ -1,0 +1,5 @@
+# Terraform 运行状态（含敏感信息，不提交）
+*.tfstate
+*.tfstate.*
+.terraform/
+tfplan
